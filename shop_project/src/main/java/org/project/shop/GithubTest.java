@@ -6,6 +6,8 @@ public class GithubTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hi gitHuB!");
 		System.out.println("hi miku");
+		System.out.println("world with 42");
+
 	}
 
 }

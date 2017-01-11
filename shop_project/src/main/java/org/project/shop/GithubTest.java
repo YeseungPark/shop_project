@@ -7,7 +7,7 @@ public class GithubTest {
 		System.out.println("Hi gitHuB!");
 		System.out.println("hi miku");
 		System.out.println("world with 42");
-		System.out.println("hihi")
+		System.out.println("hihi");
 	}
 
 }
